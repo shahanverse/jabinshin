@@ -25,6 +25,7 @@ mainBtn.addEventListener("click", () => {
   } else if (step === 4) {
     window.location.href = "yes.html";
   }
+  
 });
 
 // Fake No button behavior
